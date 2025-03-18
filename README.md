@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for s
 ---
 
 ## 📫 Connect With Me
-📧 **Email:** [@](cyberamirx@gmail.com)  
+📧 **Email:** [@](mailto:cyberamirx@gmail.com)  
 🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/cyberamir/)  
 🐦 **Twitter:** [X](https://x.com/CyberAmirx)  
 
