@@ -60,4 +60,4 @@ I’m always open to collaborating on cybersecurity projects, participating in C
 
 ⭐ **Feel free to explore my repositories and star any projects that interest you!** 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingAlAmir&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingAlAmir&langs_count=10)
