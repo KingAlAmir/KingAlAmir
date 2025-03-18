@@ -1,7 +1,7 @@
 # Hi there, I'm Amir Sarkhosh 👋
 
 ### 🚀 Cybersecurity Professional | Ethical Hacker | Cloud Security Enthusiast
-
+<img alt="top langs" align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAlAmir&layout=compact"/>
 Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for securing digital environments, ethical hacking, and cloud security. My expertise spans penetration testing, threat analysis, cloud security, and data analytics. I am constantly exploring new technologies and contributing to projects that enhance security in the ever-evolving tech landscape.
 
 ---
@@ -60,3 +60,4 @@ I’m always open to collaborating on cybersecurity projects, participating in C
 
 ⭐ **Feel free to explore my repositories and star any projects that interest you!** 🚀
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingAlAmir&langs_count=8)
