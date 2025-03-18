@@ -50,9 +50,9 @@ Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for s
 ---
 
 ## 📫 Connect With Me
-📧 **Email:** [Your Email Here]  
-🔗 **LinkedIn:** [Your LinkedIn Here]  
-🐦 **Twitter:** [Your Twitter Here]  
+📧 **Email:** [@](cyberamirx@gmail.com)  
+🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/cyberamir/)  
+🐦 **Twitter:** [X](https://x.com/CyberAmirx)  
 
 I’m always open to collaborating on cybersecurity projects, participating in CTF challenges, and discussing security best practices. Let's connect and make the digital world a safer place!
 
