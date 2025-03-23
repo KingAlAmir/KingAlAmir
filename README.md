@@ -31,6 +31,13 @@ Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for s
 
 ---
 
+## 📝 Writing & Blogs
+I write cybersecurity tutorials, walkthroughs, and technical writeups on Medium:
+
+🔗 **Medium Blog:** [medium.com/@cyberamirx](https://medium.com/@cyberamirx/)
+
+---
+
 ## 🛠️ Skills & Technologies
 ### 🔹 Cybersecurity & Ethical Hacking
 - Penetration Testing (Black Box, White Box, Red Teaming)
@@ -53,7 +60,7 @@ Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for s
 📧 **Email:** [@](mailto:cyberamirx@gmail.com)  
 🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/cyberamir/)  
 🐦 **Twitter:** [X](https://x.com/CyberAmirx)  
-
+📝 **Medium:** [@cyberamirx](https://medium.com/@cyberamirx/)
 I’m always open to collaborating on cybersecurity projects, participating in CTF challenges, and discussing security best practices. Let's connect and make the digital world a safer place!
 
 ---
