@@ -17,18 +17,21 @@ Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for s
 
 ## 📂 Featured Projects
 ### 🏴‍☠️ Penetration Testing & Ethical Hacking
-- **ADM_Pentest_Report.pdf** - Black-box penetration test report demonstrating vulnerability identification and exploitation.
-- **HTCS6705_EthicalHacking_A1.pdf** - In-depth exploration of ethical hacking principles, methodologies, and hands-on applications.
+- **Ethical Hacking A1** [PDF](https://github.com/KingAlAmir/portfolio/blob/main/Amir%20--%20HTCS6705_EthicalHacking_A1.pdf) - In-depth exploration of ethical hacking principles, methodologies, and hands-on applications.
+- **ADM Pentest Report A2** [PDF](https://github.com/KingAlAmir/portfolio/blob/main/ADM_Pentest_Report.pdf) - Black-box penetration test report demonstrating vulnerability identification and exploitation.
 
 ### 📊 Data Analysis & Machine Learning
-- **Amir_Data-Analysis_ML.pdf** - Machine learning applications in cybersecurity, featuring Python, pandas, and Jupyter Notebook.
+- **Data Analysis ML** [PDF](https://github.com/KingAlAmir/portfolio/blob/main/Amir_Data-Analysis_ML.pdf) - Machine learning applications in cybersecurity, featuring Python, pandas, and Jupyter Notebook.
 
 ### 🔐 Cloud & Security Research
-- **Amir_Sarkhosh_CyberSecProject.pdf** - Documenting a comprehensive cybersecurity initiative focused on secure system architectures.
-- **Amir_Sarkhosh_Internship_Report_Spark-DECLASSIFIED.pdf** - Insights from my internship at Spark NZ, detailing practical cybersecurity experience and contributions.
+- **CyberSec Project** [PDF](https://github.com/KingAlAmir/portfolio/blob/main/Amir_Sarkhosh_CyberSecProject.pdf) - Documenting a comprehensive cybersecurity initiative focused on secure system architectures.
+- **Amir Internship Report Spark-DECLASSIFIED** [PDF](https://github.com/KingAlAmir/portfolio/blob/main/Amir_Sarkhosh_Internship_Report_Spark-DECLASSIFIED.pdf) - Insights from my internship at Spark NZ, detailing practical cybersecurity experience and contributions.
 
 🎥 [Project Showcase Video](https://youtu.be/tHMTwIGGiOE) - Demonstrating my security projects in action.
 
+### 🧰 Supporting Work
+- **Security Awareness Focus on HR & Marketing Mastercard** [PPTX](https://github.com/KingAlAmir/portfolio/blob/main/Improving%20Security%20Awareness_%20Focus%20on%20HR%20%26%20Marketing%20Mastercard.pptx) - Designed a targeted phishing awareness presentation for HR and Marketing at Mastercard, focusing on real-world attack vectors, risk mitigation, and behavioral best practices for high-risk departments.
+- **Risk Assessment For DATACOM** [XLSX](https://github.com/KingAlAmir/portfolio/blob/main/Risk%20Assessment%20Amir%20Sarkhosh%20DATACOM.xlsx) - Executed a formal risk assessment for Datacom using threat modeling, risk matrices, and controls mapping to provide clear, actionable insights aligned with enterprise security standards.
 ---
 
 ## 📝 Writing & Blogs
