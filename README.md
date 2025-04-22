@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a cybersecurity professional with a deep passion for s
 🎥 [Project Showcase Video](https://youtu.be/tHMTwIGGiOE) - Demonstrating my security projects in action.
 
 ### 🧰 Supporting Work
-- **Security Awareness Focus on HR & Marketing Mastercard** [PPTX](https://github.com/KingAlAmir/portfolio/blob/main/Improving%20Security%20Awareness_%20Focus%20on%20HR%20%26%20Marketing%20Mastercard.pptx) - Designed a targeted phishing awareness presentation for HR and Marketing at Mastercard, focusing on real-world attack vectors, risk mitigation, and behavioral best practices for high-risk departments.
+- **Security Awareness Focus on HR & Marketing For Mastercard** [PPTX](https://github.com/KingAlAmir/portfolio/blob/main/Improving%20Security%20Awareness_%20Focus%20on%20HR%20%26%20Marketing%20Mastercard.pptx) - Designed a targeted phishing awareness presentation for HR and Marketing at Mastercard, focusing on real-world attack vectors, risk mitigation, and behavioral best practices for high-risk departments.
 - **Risk Assessment For DATACOM** [XLSX](https://github.com/KingAlAmir/portfolio/blob/main/Risk%20Assessment%20Amir%20Sarkhosh%20DATACOM.xlsx) - Executed a formal risk assessment for Datacom using threat modeling, risk matrices, and controls mapping to provide clear, actionable insights aligned with enterprise security standards.
 ---
 
